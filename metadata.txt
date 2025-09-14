@@ -1,0 +1,16 @@
+[general]
+name=Nuclear War Targeting Planner
+qgisMinimumVersion=3.22
+description=Dockable circular slide rule widget (yield & burst height)
+version=1.0.0
+author=Lane Willard
+email=lane.willard@gmail.com
+about=Academic tool to model the effects of nuclear war
+tracker=
+repository=
+changelog=Initial minimal port using SlideRuleWidget.
+category=Plugins
+icon=icon.png
+homepage=
+experimental=True
+deprecated=False
